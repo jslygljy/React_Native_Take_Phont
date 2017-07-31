@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/yh-ued/Desktop/MyApp2/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/yh-ued/Desktop/MyApp2/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

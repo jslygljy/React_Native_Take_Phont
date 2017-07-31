@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/.android/build-cache/6627a2b21c34ed24bdc58430e25f2c8707aa4914/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/classes_0bfab3a87cc0e95657aca70f7e0bd42faeb5cfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/Desktop/MyApp2/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="981235c69c4e2cecde2d943078619379d95d15f1">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/classes_1020cd6c20532541f1fd464a7f4fbf44d4fd39df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/Desktop/MyApp2/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/classes_1912156d800db46dde249a977b8b7d536d20d7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/Desktop/MyApp2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/classes_e487882ae9964fdf94c8e69e06b42affbf965056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/.android/build-cache/6627a2b21c34ed24bdc58430e25f2c8707aa4914/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_df3f805c17daf7fac8a96f325aac6ce8e8f799c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yh-ued/Desktop/MyApp2/node_modules/react-native-orientation/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dea56cf7d2ba81f807817cca97b0ab6e417bb52">
+        <dex dex="/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/pre-dexed/debug/classes_775349aa744482ed73662a41b1e063b959eeba2b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/yh-ued/Desktop/MyApp2/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/yh-ued/Desktop/MyApp2/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/yh-ued/.android/build-cache/6627a2b21c34ed24bdc58430e25f2c8707aa4914/output/res/xml/preferences.xml"
+    }
+]
